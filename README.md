@@ -1,4 +1,5 @@
 # Pig Dice Game
+Project made in the course <a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course 2020: Build Real Projects!</a>
 
 ## GAME RULES:
 - The game has 2 players, playing in rounds
